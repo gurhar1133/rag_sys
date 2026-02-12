@@ -1,0 +1,9 @@
+secrets.json
+
+./venv
+
+/cross-encoder
+
+/all-MiniLM-L6-v2
+
+simple_rag.egg-info/
