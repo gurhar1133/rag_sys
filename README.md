@@ -19,7 +19,7 @@ if you want the query rewriting and have an openai key create a .json file calle
 ### Run demo
 
 To run the demo:
-`python python rag_sys.py`
+`python rag_sys.py`
 
 The demo cases will follow this format:
 
